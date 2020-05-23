@@ -46,3 +46,6 @@ public class ArticleDAO implements IArticleDAO {
 		return count > 0 ? true : false;
 	}
 }
+
+
+//added comment 
